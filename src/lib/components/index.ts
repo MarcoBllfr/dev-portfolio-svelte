@@ -4,3 +4,4 @@ export {default as Button } from './Button.svelte'
 export {default as SectionHeadline} from "./Section/SectionHeadline.svelte"
 export {default as AboutMeSection} from "./Section/AboutMeSection.svelte"
 export {default as ExperienceTable} from "./ExperienceTable.svelte"
+export {default as MyWorkSection} from "./Section/MyWorkSection.svelte"
