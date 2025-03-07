@@ -11,7 +11,7 @@
 </script>
 
 <section class="mt-l">
-  <SectionHeadline sectionName="My-work">My Work</SectionHeadline>
+  <SectionHeadline sectionName="my-work">My Work</SectionHeadline>
   <div class="default-margin projects-container mt-m">
     <article class="main-project mb-m">
       <a href={`/work/${mainProject.slug}`}>

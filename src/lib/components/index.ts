@@ -7,3 +7,5 @@ export {default as ExperienceTable} from "./ExperienceTable.svelte"
 export {default as MyWorkSection} from "./Section/MyWorkSection.svelte"
 export {default as SkillsSection} from "./Section/SkillsSection.svelte"
 export {default as ContactSection} from "./Section/ContactSection.svelte"
+export {default as Header } from "./Header.svelte";
+export { default as Footer } from "./Footer.svelte";

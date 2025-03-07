@@ -28,7 +28,7 @@ let {workExperience} : ExperienceTableProps = $props();
       </li>
     {/each}
   </ul>
-  <h2 class="headline">Past work<br /> Experience</h2>
+  <h2 class="headline">Past work<br/> Experience</h2>
 </section>
 <style>
     .work-experience {

@@ -1,6 +1,6 @@
 <script>
 
-  import {HeroSection, AboutMeSection, MyWorkSection, SkillsSection, ContactSection} from "$components";
+  import {HeroSection, AboutMeSection, MyWorkSection, SkillsSection, ContactSection,Header} from "$components";
   const {data} = $props();
   let {workExperience,projects, skills} = data;
 </script>
